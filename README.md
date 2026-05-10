@@ -1,2 +1,2 @@
-# luxury-real-estate
-luxury real estate
+# luxury-real-estate-hero
+real estate
